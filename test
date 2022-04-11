@@ -1,2 +1,0 @@
-$ heroku buildpacks:set heroku/php
-$ heroku create myapp --buildpack heroku/python
